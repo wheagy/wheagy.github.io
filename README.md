@@ -1,3 +1,7 @@
+# Current Projects
+I plan to keep projects listed here.
+
+
 # Project Title
 
 A brief overview of your project and its purpose.
