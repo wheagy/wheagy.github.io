@@ -1,4 +1,3 @@
-# wheagy.github.io
 # Project Title
 
 A brief overview of your project and its purpose.
