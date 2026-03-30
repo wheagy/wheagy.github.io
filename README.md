@@ -15,7 +15,11 @@ I currently teach a workshop at [make717](https://make717.org) using the [Makers
 
 ---
 
+<div align="center">
+
 ## Vintage Computing
+
+</div>
 
 ---
 
