@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:f97316,50:a855f7,100:0ea5e9&height=220&section=header&text=Wheagy%27s%20Lab&fontSize=48&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Wheagy's Space banner">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:f97316,50:a855f7,100:0ea5e9&height=220&section=header&text=Wheagy%27s%20Space&fontSize=48&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Wheagy's Space banner">
 
-<h3>Retro Computing • Robotics • Quantum Curiosity</h3>
+<h3>Retro Computing • Robotics • Quantum • Electronics</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-f97316?style=for-the-badge" />
