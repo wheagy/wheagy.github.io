@@ -9,6 +9,8 @@ I currently teach a workshop at [make717](https://make717.org) using the [Makers
 
 ## Vintage Computing
 
+---
+
 # Project Title
 
 A brief overview of your project and its purpose.
