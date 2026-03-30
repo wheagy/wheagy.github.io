@@ -8,18 +8,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=900&color=00FF41&background=000000&center=false&vCenter=true&width=1200&height=120&lines=root%40wheagy%3A~%24+whoami;Win Heagy+-+Retro+Systems+%7C+Robotics+%7C+Aviation+%7C+Electronics;root%40wheagy%3A~%24+ls+projects;vintage_computers+robotics+quantum_computing+aviation-systems;root%40wheagy%3A~%24+_" width="100%" alt="Terminal">
 </div>
 
+<div align="center">
 <h3>Retro Computing • Robotics • Quantum Computing • Electronics</h3>
+</div>
 
-<p>
+<div align="center">
   <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-f97316?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Workshop-MakersPet%20Robot-22c55e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-New%20York%20City-0ea5e9?style=for-the-badge" />
-</p>
-
-<em>Past Aviation systems, present robotics and retro computing, future quantum/AI/neural networks...</em>
-
 </div>
 
+<div align="center">
+<em>Past Aviation systems, present robotics and retro computing, future quantum/AI/neural networks...</em>
+</div>
 ---
 
 ## Current Projects:
