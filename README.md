@@ -14,6 +14,11 @@
 
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=4000&pause=2000&color=00FF41&background=00000000&center=true&vCenter=true&width=1200&height=120&lines=Win's+Space;Retro+Computing+%7C+Robotics+%7C+Quantum" alt="Win's Space" width="100%">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake">
+</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=4000&pause=2000&color=00FF41&background=0D1117&center=true&vCenter=true&width=1200&height=120&lines=Win's+Space;Retro+Computing+%7C+Robotics+%7C+Quantum" alt="Win's Space" width="100%">
