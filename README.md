@@ -1,6 +1,12 @@
+<!--
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=200&section=header&text=Wheagy%27s%20Space&fontSize=48&fontAlignY=50&animation=twinkling&fontColor=ffffff" alt="Wheagy's Space banner" width="100%">
+-->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FF41&background=000000&center=false&vCenter=true&width=1200&height=120&lines=root%40wheagy%3A~%24+whoami;Win+-+Retro+Hacker+%7C+Roboticist+%7C+Aviation+Engineer;root%40wheagy%3A~%24+ls+projects;vintage+computers+robotics+quantum+computing+aviation-systems;root%40wheagy%3A~%24+_" width="100%" alt="Terminal">
+</div>
 
 <h3>Retro Computing • Robotics • Quantum Computing • Electronics</h3>
 
@@ -13,13 +19,6 @@
 <em>Past Aviation systems, present robotics and retro computing, future quantum/AI/neural networks...</em>
 
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FF41&background=000000&center=false&vCenter=true&width=1200&height=120&lines=root%40wheagy%3A~%24+whoami;Win+-+Retro+Hacker+%7C+Roboticist+%7C+ATC+Engineer;root%40wheagy%3A~%24+ls+projects;commodore64+turtlebot4+quantum+atc-systems;root%40wheagy%3A~%24+_" width="100%" alt="Terminal">
-</div>
-
-
-
 
 ---
 
