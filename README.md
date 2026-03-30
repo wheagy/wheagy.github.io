@@ -8,7 +8,7 @@ I currently teach a workshop at [make717](https://make717.org) using the [Makers
 
 [MakersPet Robot Youtube page](https://www.youtube.com/@MakersPet)
 
----.
+---
 
 ## Vintage Computing
 
