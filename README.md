@@ -44,7 +44,7 @@ Step-by-step examples of how to run and use the application.
 To run the main script:
 ```python
 import foobar
--->
 
 # Returns 'words'
 print(foobar.pluralize('word'))
+-->
