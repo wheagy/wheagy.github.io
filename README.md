@@ -16,21 +16,6 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=800&height=120&lines=Wheagy's+Space;Retro+Computing+%7C+Robotics+%7C+Quantum+Computing;Building+Cool+Stuff..." alt="Typing SVG" width="100%">
-</div>
-
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="Tech Banner">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake">
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=1200&height=80&lines=Win's+Space" alt="Win's Space" width="100%">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake">
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=4000&pause=2000&color=00FF41&background=0D1117&center=true&vCenter=true&width=1200&height=120&lines=Win's+Space;Retro+Computing+%7C+Robotics+%7C+Quantum" alt="Win's Space" width="100%">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake">
 </div>
