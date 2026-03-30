@@ -3,16 +3,26 @@
   <head>
     <meta charset='utf-8'>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/pages-themes/hacker@v0.2.0/assets/css/style.scss">
+    <style>
+      body { background-color: #151515; color: #aaaaaa; font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace; font-size: 14px; margin: 0; padding: 20px; }
+      a { color: #63c0f5; text-decoration: none; }
+      a:hover { text-decoration: underline; }
+      h1,h2,h3,h4,h5,h6 { color: #ffffff; font-weight: bold; }
+      strong { color: #ffffff; }
+      code, pre { background: #2a2a2a; color: #aaaaaa; }
+      pre { padding: 10px; overflow: auto; border-radius: 4px; }
+      code { padding: 2px 5px; border-radius: 3px; }
+      hr { border: 0; border-top: 1px solid #333; }
+      img { max-width: 100%; }
+      #container { max-width: 960px; margin: 0 auto; }
+    </style>
     <title>Win's Space</title>
   </head>
   <body>
     <div id="container">
-      <div class="inner">
-        <section id="main_content">
-          {{ content }}
-        </section>
-      </div>
+      <section id="main_content">
+        {{ content }}
+      </section>
     </div>
   </body>
 </html>
