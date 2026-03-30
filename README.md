@@ -15,7 +15,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-f97316?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Workshop-MakersPet%20Robot-22c55e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-New%20York%20City-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Lancaster,%20PA-0ea5e9?style=for-the-badge" />
 </div>
 
 <div align="center">
