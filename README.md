@@ -3,7 +3,8 @@ I plan to keep projects listed here.
 
 ## MakersPet Robot
 I currently teach a workshop at [make717](https://make717.org) using the [MakersPet Robot](https://makerspet.com).\
-![MakersPet Robot](IMG_1615.jpeg)
+![MakersPet Robot](IMG_1615.jpeg)\
+<img src="IMG_1615.jpeg" alt="Alt text description" width="500">
 [MakersPet Robot Youtube page](https://www.youtube.com/@MakersPet)
 
 ---.
