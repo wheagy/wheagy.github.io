@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=Gradient&height=200&section=header&text=Wheagy%27s%20Space&fontSize=48&fontAlignY=50&animation=twinkling&fontColor=ffffff" alt="Wheagy's Space banner" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=header&text=Wheagy%27s%20Space&fontSize=48&fontAlignY=50&animation=twinkling&fontColor=ffffff" alt="Wheagy's Space banner" width="100%">
 
 <h3>Retro Computing • Robotics • Quantum • Electronics</h3>
 
