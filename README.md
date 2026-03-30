@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:f97316,50:a855f7,100:0ea5e9&height=220&section=header&text=Wheagy%27s%20Lab&fontSize=48&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Wheagy's Lab banner">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:f97316,50:a855f7,100:0ea5e9&height=220&section=header&text=Wheagy%27s%20Lab&fontSize=48&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Wheagy's Space banner">
 
 <h3>Retro Computing • Robotics • Quantum Curiosity</h3>
 
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Location-New%20York%20City-0ea5e9?style=for-the-badge" />
 </p>
 
-<em>Past ATC systems, present makerspace robots, future quantum experiments — this space is my running log of projects in motion.</em>
+<em>Past Aviation systems, present robotics and retro computing, future quantum/AI/neural networks...</em>
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## Current Projects:
 
-I use this space to capture what I've built, what I'm tinkering with now, and ideas I'm exploring next. From retro computing to robotics, this page is my running log of projects in motion.
+I use this space to capture what I've built, what I'm tinkering with now, and ideas I'm exploring next. From retro computing to robotics, this page is my running log of my projects.
 
 ---
 
