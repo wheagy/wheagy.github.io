@@ -1,10 +1,12 @@
-# Current Projects
+# <u>Current Projects:</u>
 I plan to keep projects listed here.
 
 ## MakersPet Robot
 I currently teach a workshop at [make717](https://make717.org) using the [MakersPet Robot](https://makerspet.com).
 
 [MakersPet Robot Youtube page](https://www.youtube.com/@MakersPet)
+
+## Vintage Computing
 
 # Project Title
 
