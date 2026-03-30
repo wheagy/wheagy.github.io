@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=3000&pause=900&color=00FF41&background=000000&center=false&vCenter=true&width=1200&height=120&lines=root%40wheagy%3A~%24+whoami;Win Heagy+-+Retro+Systems+%7C+Robotics;Aviation+%7C+Electronics;root%40wheagy%3A~%24+ls+projects;vintage_computers+robotics+quantum_computing+aviation-systems;root%40wheagy%3A~%24+_" width="100%" alt="Terminal">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=3000&pause=900&color=00FF41&background=000000&center=false&vCenter=true&width=1200&height=120&lines=root%40wheagy%3A~%24+whoami;Win Heagy+-+Retro+Systems+%7C+Robotics;Aviation+%7C+Electronics;root%40wheagy%3A~%24+ls+projects;vintage_computers+robotics;quantum_computing+aviation-systems;root%40wheagy%3A~%24+_" width="100%" alt="Terminal">
 </div>
 
 <div align="center">
