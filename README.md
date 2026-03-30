@@ -21,8 +21,15 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=4000&pause=2000&color=00FF41&background=0D1117&center=true&vCenter=true&width=1200&height=120&lines=Win's+Space;Retro+Computing+%7C+Robotics+%7C+Quantum" alt="Win's Space" width="100%">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake">
+  <img src="https://raw.githubusercontent.com/gist/renovate-bot/renovate-bot/output/gol.svg" width="100%" alt="Conway's Game of Life">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="Matrix Code Rain">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF41&background=000000&center=false&vCenter=true&width=1200&height=120&lines=root%40wheagy%3A~%24+whoami;Win+-+Retro+Hacker+%7C+Roboticist+%7C+ATC+Engineer;root%40wheagy%3A~%24+ls+projects;commodore64+turtlebot4+quantum+atc-systems;root%40wheagy%3A~%24+_" width="100%" alt="Terminal">
 </div>
 
 ---
