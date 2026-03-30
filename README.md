@@ -25,7 +25,7 @@ I use this space to capture what I've built, what I'm tinkering with now, and id
 <h2 align="center">🤖 MakersPet Robot Workshop</h2>
 
 <div align="center">
-  <img src="assets/IMG_1615.jpeg" alt="MakersPet Robot" width="300">
+  <img src="assets/IMG_1615.jpeg" alt="MakersPet Robot" width="400">
 </div>
 
 <br>
