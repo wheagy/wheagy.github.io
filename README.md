@@ -14,6 +14,7 @@ I currently teach a workshop at [make717](https://make717.org) using the [Makers
 
 ---
 
+<!--
 # Project Title
 
 A brief overview of your project and its purpose.
@@ -43,6 +44,7 @@ Step-by-step examples of how to run and use the application.
 To run the main script:
 ```python
 import foobar
+-->
 
 # Returns 'words'
 print(foobar.pluralize('word'))
