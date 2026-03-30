@@ -1,7 +1,7 @@
 # Current Projects
 I plan to keep projects listed here.
 
-https://www.youtube.com/@MakersPet
+[MakersPet Robot Youtube page](https://www.youtube.com/@MakersPet)
 
 # Project Title
 
