@@ -33,10 +33,10 @@ I use this space to capture what I've built, what I'm tinkering with now, and id
 I currently teach a hands-on robotics workshop at [make717](https://make717.org) using the [MakersPet Robot](https://makerspet.com) — a beginner-friendly ROS 2-based platform perfect for learning autonomous navigation, sensors, and robot programming.
 
 **What we cover in the workshop:**
-- 🔧 Robot assembly and hardware overview
-- 📡 Sensor integration (LiDAR, IMU, encoders)
+- 🔧 Hardware overview
+- 📡 Sensor explanation (LiDAR, IMU, encoders)
 - 🗺️ Autonomous navigation with ROS 2 and Nav2
-- 💻 Writing your first robot behaviors
+- 💻 Implementing your first robot behaviors
 
 <div align="center">
 <a href="https://www.youtube.com/@MakersPet"><img src="https://img.shields.io/badge/YouTube-MakersPet%20Channel-red?style=for-the-badge&logo=youtube" alt="MakersPet YouTube"></a>&nbsp;<a href="https://make717.org"><img src="https://img.shields.io/badge/Workshop-make717-22c55e?style=for-the-badge" alt="make717"></a>&nbsp;<a href="https://makerspet.com"><img src="https://img.shields.io/badge/Robot-MakersPet-a855f7?style=for-the-badge" alt="MakersPet"></a>
