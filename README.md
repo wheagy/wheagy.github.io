@@ -1,6 +1,7 @@
 # <u>Current Projects:</u>
 I use this space to capture what I’ve built, what I’m tinkering with now, and ideas I’m exploring next. From retro computing to robotics, this page is my running log of projects.
 
+---
 
 <h2 align="center">MakersPet Robot</h2>
 
