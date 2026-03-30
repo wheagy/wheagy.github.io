@@ -21,6 +21,14 @@
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="Tech Banner">
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake">
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100%" height="200" alt="Animated Robot" style="object-fit:cover;">
+</div>
+
 ---
 
 ## Current Projects:
