@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=00FF41&background=000000&center=false&vCenter=true&width=1200&height=120&lines=root%40wheagy%3A~%24+whoami;Win+-+Retro+Systems+%7C+Robotics+%7C+Aviation+%7C+Electronics;root%40wheagy%3A~%24+ls+projects;vintage_computers+robotics+quantum_computing+aviation-systems;root%40wheagy%3A~%24+_" width="100%" alt="Terminal">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=900&color=00FF41&background=000000&center=false&vCenter=true&width=1200&height=120&lines=root%40wheagy%3A~%24+whoami;Win+-+Retro+Systems+%7C+Robotics+%7C+Aviation+%7C+Electronics;root%40wheagy%3A~%24+ls+projects;vintage_computers+robotics+quantum_computing+aviation-systems;root%40wheagy%3A~%24+_" width="100%" alt="Terminal">
 </div>
 
 <h3>Retro Computing • Robotics • Quantum Computing • Electronics</h3>
