@@ -1,11 +1,11 @@
 # <u>Current Projects:</u>
 I plan to keep projects listed here.
 
-<p align="center"> 
-    
+<div align="center">
+
 ## MakersPet Robot
 
-</p>
+</div>
 
 I currently teach a workshop at [make717](https://make717.org) using the [MakersPet Robot](https://makerspet.com).
 
