@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-<em>Past Aviation systems, present robotics and retro computing, future quantum/AI/neural networks...</em>
+<em>Past - aviation systems, Present - robotics and retro computing, Future - quantum/AI/neural networks...</em>
 </div>
 ---
 
