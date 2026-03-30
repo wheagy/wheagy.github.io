@@ -1,11 +1,8 @@
 # <u>Current Projects:</u>
-I plan to keep projects listed here.
+I use this space to capture what I’ve built, what I’m tinkering with now, and ideas I’m exploring next. From retro computing to robotics, this page is my running log of projects.
 
-<div align="center">
 
-## MakersPet Robot
-
-</div>
+<h2 align="center">MakersPet Robot</h2>
 
 I currently teach a workshop at [make717](https://make717.org) using the [MakersPet Robot](https://makerspet.com).
 
