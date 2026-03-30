@@ -6,6 +6,7 @@ I plan to keep projects listed here.
 ## MakersPet Robot
 
 </p>
+
 I currently teach a workshop at [make717](https://make717.org) using the [MakersPet Robot](https://makerspet.com).
 
 <img src="assets/IMG_1615.jpeg" alt="MakersPet Robot" width="300">
