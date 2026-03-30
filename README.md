@@ -16,7 +16,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=800&height=120&lines=Wheagy's+Lab;Retro+Computing+%7C+Robotics+%7C+Quantum;Building+Cool+Stuff..." alt="Typing SVG" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=800&height=120&lines=Wheagy's+Lab;Retro+Computing+%7C+Robotics+%7C+Quantum Computing;Building+Cool+Stuff..." alt="Typing SVG" width="100%">
 </div>
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="Tech Banner">
