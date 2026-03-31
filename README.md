@@ -77,8 +77,11 @@ It was the first commercial computer designed around user interaction rather tha
 The PDP-1 is best known today as the machine on which Spacewar! was created in 1962, making it a landmark in video game history. It also played a central role in the early MIT/BBN hacker scene. (Wikipedia)
 
 
-[![Obsolescence Guaranteed Channel](https://img.shields.io/badge/Obsolescence_Guaranteed-Channel-red?style=for-the-badge)](https://obsolescence.dev/pdp1.html)
-
+<p align="center">
+  <a href="https://obsolescence.dev/pdp1.html">
+    <img src="https://img.shields.io/badge/Obsolescence_Guaranteed-Channel-red?style=for-the-badge" alt="Obsolescence Guaranteed Channel">
+  </a>
+</p>
 
 <hr style="border: 3px solid #00ff00;">
 
