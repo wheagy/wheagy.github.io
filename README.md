@@ -77,7 +77,7 @@ It was the first commercial computer designed around user interaction rather tha
 The PDP-1 is best known today as the machine on which Spacewar! was created in 1962, making it a landmark in video game history. It also played a central role in the early MIT/BBN hacker scene. (Wikipedia)
 
 <div align="center">
-<a href="https://www.youtube.com/@MakersPet"><img src="https://img.shields.io/badge/YouTube-MakersPet%20Channel-red?style=for-the-badge&logo=youtube" alt="MakersPet YouTube"></a>&nbsp;<a href="https://make717.org"><img src="https://img.shields.io/badge/Workshop-make717-22c55e?style=for-the-badge" alt="make717"></a>&nbsp;<a href="https://makerspet.com"><img src="https://img.shields.io/badge/Robot-MakersPet-a855f7?style=for-the-badge" alt="MakersPet"></a>
+<a href="https://obsolescence.dev/pdp1.html"><img src="https://img.shields.io/badge/Obsolescence_Guaranteed%20Channel-red?style=for-the-badge&logo=computer" alt="Obsol Guar"></a>
 </div>
 
 <hr style="border: 3px solid #00ff00;">
