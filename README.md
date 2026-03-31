@@ -76,6 +76,12 @@ It was the first commercial computer designed around user interaction rather tha
 ### Cultural impact
 The PDP-1 is best known today as the machine on which Spacewar! was created in 1962, making it a landmark in video game history. It also played a central role in the early MIT/BBN hacker scene. (Wikipedia)
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-f97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Workshop-MakersPet%20Robot-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Lancaster,%20PA-0ea5e9?style=for-the-badge" />
+</div>
+
 
 <hr style="border: 3px solid #00ff00;">
 
@@ -83,5 +89,12 @@ The PDP-1 is best known today as the machine on which Spacewar! was created in 1
 
 <div align="center">
   <img src="./assets/pidp-1_rack2.jpg" alt="6502" width="300">
+</div>
+
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-f97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Workshop-MakersPet%20Robot-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Lancaster,%20PA-0ea5e9?style=for-the-badge" />
 </div>
 
