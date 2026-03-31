@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-<em>Past - aviation systems, Present - robotics and retro computing, Future - quantum/AI/neural networks...</em>
+<em>Past - aviation domain; Present - robotics and retro computing; Future - teaching and learning...</em>
 </div>
 ---
 
