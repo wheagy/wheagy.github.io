@@ -67,13 +67,13 @@ A soon to be started project is the [PiDP-1 by Obsolescence Quaranteed](https://
 
 The PDP-1 was DEC’s first computer and one of the most important early interactive systems, introduced in 1959. It became famous for helping launch hacker culture and for hosting Spacewar!, one of the first video games.
 
-What it was
+###What it was
 PDP stands for “Programmed Data Processor,” a naming choice DEC used instead of “computer.” The PDP-1 was a 18-bit machine with a 4,096-word main memory in its standard configuration.
 
-Why it matters
+###Why it matters
 It was the first commercial computer designed around user interaction rather than batch processing, which made it a major step toward modern interactive computing. It also supported early time-sharing, text editing, debugging, graphics, and music programs.
 
-Cultural impact
+###Cultural impact
 The PDP-1 is best known today as the machine on which Spacewar! was created in 1962, making it a landmark in video game history. It also played a central role in the early MIT/BBN hacker scene. (Wikipedia)
 
 
