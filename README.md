@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-<em>Past - aviation domain; Present - robotics and retro computing; Future - teaching and learning...</em>
+<em>Past - aviation domain; Present - robotics and retro computing; Future - teaching, learning, volunteering...</em>
 </div>
 ---
 
