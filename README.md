@@ -91,7 +91,7 @@ The PDP-1 is best known today as the machine on which Spacewar! was created in 1
   <img src="./assets/BE_6502.jpeg" alt="6502" width="300">
 </div>
 
-This is my Ben Eater 6502 breadboard computer.  I was able to build it mostly with parts I already had and a small order from DigiKey.  So far I can run BASIC and Wozmon.
+This is my [Ben Eater 6502](https://eater.net/6502) breadboard computer.  I was able to build it mostly with parts I already had and a small order from DigiKey.  So far I can run BASIC and Wozmon. It connects via RS-232 to terminal emulation software on a computer.  
 
 <div align="center">
 <a href="https://www.youtube.com/@MakersPet"><img src="https://img.shields.io/badge/YouTube-MakersPet%20Channel-red?style=for-the-badge&logo=youtube" alt="MakersPet YouTube"></a>&nbsp;<a href="https://make717.org"><img src="https://img.shields.io/badge/Workshop-make717-22c55e?style=for-the-badge" alt="make717"></a>&nbsp;<a href="https://makerspet.com"><img src="https://img.shields.io/badge/Robot-MakersPet-a855f7?style=for-the-badge" alt="MakersPet"></a>
