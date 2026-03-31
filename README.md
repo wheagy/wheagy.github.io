@@ -55,7 +55,7 @@ I currently teach a hands-on robotics workshop at [make717](https://make717.org)
 <a href="https://www.youtube.com/@MakersPet"><img src="https://img.shields.io/badge/YouTube-MakersPet%20Channel-red?style=for-the-badge&logo=youtube" alt="MakersPet YouTube"></a>&nbsp;<a href="https://make717.org"><img src="https://img.shields.io/badge/Workshop-make717-22c55e?style=for-the-badge" alt="make717"></a>&nbsp;<a href="https://makerspet.com"><img src="https://img.shields.io/badge/Robot-MakersPet-a855f7?style=for-the-badge" alt="MakersPet"></a>
 </div>
 
----
+<hr style="border: 3px solid #00ff00;">
 
 <h2 align="center">PiPD-1</h2>
 
