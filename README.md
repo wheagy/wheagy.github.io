@@ -77,3 +77,11 @@ It was the first commercial computer designed around user interaction rather tha
 The PDP-1 is best known today as the machine on which Spacewar! was created in 1962, making it a landmark in video game history. It also played a central role in the early MIT/BBN hacker scene. (Wikipedia)
 
 
+<hr style="border: 3px solid #00ff00;">
+
+<h2 align="center">Ben Eater 6502</h2>
+
+<div align="center">
+  <img src="./assets/pidp-1_rack2.jpg" alt="6502" width="300">
+</div>
+
