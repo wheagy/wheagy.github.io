@@ -85,7 +85,7 @@ The PDP-1 is best known today as the machine on which Spacewar! was created in 1
 <h2 align="center">Ben Eater 6502</h2>
 
 <div align="center">
-  <img src="./assets/BE_6502.heic" alt="6502" width="300">
+  <img src="./assets/BE_6502.jpeg" alt="6502" width="300">
 </div>
 
 <div align="center">
