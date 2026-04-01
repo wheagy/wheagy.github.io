@@ -63,9 +63,9 @@ I currently teach a hands-on robotics workshop at [make717](https://make717.org)
   <img src="./assets/pidp-1_rack2.jpg" alt="PiDP-1" width="300">
 </div>
 
-A soon to be started project is the [PiDP-1 by Obsolescence Quaranteed](https://obsolescence.dev/pdp1.html).  I already have the PiDP-8, PiDP-10, and PiDP-11.  The PiDP-1 holds a special place in the history of computing.  
+A soon to be started project is the [PiDP-1 by Obsolescence Quaranteed](https://obsolescence.dev/pdp1.html).  I already have the PiDP-8, PiDP-10, and PiDP-11.  
 
-The PDP-1 was DEC’s first computer and one of the most important early interactive systems, introduced in 1959. It became famous for helping launch hacker culture and for hosting Spacewar!, one of the first video games.
+The PDP-1 holds a special place in the history of computing. The PDP-1 was DEC’s first computer and one of the most important early interactive systems, introduced in 1959. It became famous for helping launch hacker culture and for hosting Spacewar!, one of the first video games.
 
 ### What it was
 PDP stands for “Programmed Data Processor,” a naming choice DEC used instead of “computer.” The PDP-1 was a 18-bit machine with a 4,096-word main memory in its standard configuration.
