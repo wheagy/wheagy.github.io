@@ -60,7 +60,7 @@ I currently teach a hands-on robotics workshop at [make717](https://make717.org)
 <h2 align="center">PiPD-1</h2>
 
 <div align="center">
-  <img src="./assets/pidp-1_rack2.jpg" alt="PiDP-1" width="300">
+  <img src="./assets/pidp-1_rack2.jpg" alt="PiDP-1" width="400">
 </div>
 
 A soon to be started project is the [PiDP-1 by Obsolescence Quaranteed](https://obsolescence.dev/pdp1.html).  I already have the PiDP-8, PiDP-10, and PiDP-11.  
@@ -88,7 +88,7 @@ The PDP-1 is best known today as the machine on which Spacewar! was created in 1
 <h2 align="center">Ben Eater 6502</h2>
 
 <div align="center">
-  <img src="./assets/BE_6502.jpeg" alt="6502" width="300">
+  <img src="./assets/BE_6502.jpeg" alt="6502" width="400">
 </div>
 
 This is my [Ben Eater 6502](https://eater.net/6502) breadboard computer.  I was able to build it mostly with parts I already had and a small order from DigiKey.  So far I can run BASIC and Wozmon. It connects via RS-232 to terminal emulation software on a computer.  
