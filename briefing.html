@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>wheagy // daily briefing</title>
+<style>
+  :root {
+    --bg: #0d0f14;
+    --panel: #141720;
+    --border: #2a2f3d;
+    --accent-green: #39ff14;
+    --accent-cyan: #00e5ff;
+    --accent-orange: #ff6b35;
+    --accent-purple: #bf5fff;
+    --accent-yellow: #ffd600;
+    --text: #c8ccd8;
+    --muted: #5a607a;
+    --font: 'Courier New', Courier, monospace;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--font);
+    font-size: 13px;
+    min-height: 100vh;
+  }
+  header {
+    border-bottom: 1px solid var(--border);
+    padding: 14px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: var(--panel);
+  }
+  header .logo {
+    color: var(--accent-green);
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 2px;
+  }
+  header .logo span { color: var(--muted); }
+  header .datestamp {
+    color: var(--muted);
+    font-size: 11px;
+    letter-spacing: 1px;
+  }
+  header .datestamp #clock {
+    color: var(--accent-cyan);
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto;
+    gap: 1px;
+    background: var(--border);
+    min-height: calc(100vh - 52px);
+  }
+  .panel {
+    background: var(--panel);
+    padding: 18px 20px;
+    overflow-y: auto;
+    max-height: calc((100vh - 52px) / 2);
+  }
+  .panel-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 14px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--border);
+  }
+  .panel-header .icon { font-size: 16px; }
+  .panel-header h2 {
+    font-size: 13px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  .panel-header .count {
+    margin-left: auto;
+    font-size: 10px;
+    color: var(--muted);
+    border: 1px solid var(--border);
+    padding: 1px 6px;
+    border-radius: 2px;
+  }
+  .robotics .panel-header h2 { color: var(--accent-green); }
+  .retro    .panel-header h2 { color: var(--accent-orange); }
+  .ai       .panel-header h2 { color: var(--accent-cyan); }
+  .linux    .panel-header h2 { color: var(--accent-purple); }
+
+  .item {
+    border-left: 2px solid var(--border);
+    padding: 7px 10px;
+    margin-bottom: 9px;
+    transition: border-color 0.15s;
+  }
+  .item:hover { border-left-color: inherit; background: #1a1e2a; }
+  .robotics .item:hover { border-left-color: var(--accent-green); }
+  .retro    .item:hover { border-left-color: var(--accent-orange); }
+  .ai       .item:hover { border-left-color: var(--accent-cyan); }
+  .linux    .item:hover { border-left-color: var(--accent-purple); }
+
+  .item a {
+    display: block;
+    color: var(--text);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 1.4;
+    margin-bottom: 3px;
+  }
+  .item a:hover { color: #fff; text-decoration: underline; }
+  .item .summary {
+    color: var(--muted);
+    font-size: 11px;
+    line-height: 1.5;
+  }
+  .item .tag {
+    display: inline-block;
+    font-size: 9px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    padding: 1px 5px;
+    border-radius: 2px;
+    margin-bottom: 4px;
+    margin-right: 4px;
+  }
+  .robotics .item .tag { background: #0d2b0d; color: var(--accent-green); border: 1px solid #1a4a1a; }
+  .retro    .item .tag { background: #2b1505; color: var(--accent-orange); border: 1px solid #4a2a10; }
+  .ai       .item .tag { background: #051a2b; color: var(--accent-cyan);   border: 1px solid #0a3a4a; }
+  .linux    .item .tag { background: #1a0b2b; color: var(--accent-purple); border: 1px solid #3a1a4a; }
+
+  .footer {
+    position: fixed;
+    bottom: 0; left: 0; right: 0;
+    background: #0a0c10;
+    border-top: 1px solid var(--border);
+    padding: 5px 24px;
+    font-size: 10px;
+    color: var(--muted);
+    display: flex;
+    gap: 20px;
+    z-index: 99;
+  }
+  .footer span { color: var(--accent-yellow); }
+  .scanline {
+    position: fixed; top:0; left:0; right:0; bottom:0;
+    pointer-events: none;
+    background: repeating-linear-gradient(
+      to bottom,
+      transparent,
+      transparent 2px,
+      rgba(0,0,0,0.04) 2px,
+      rgba(0,0,0,0.04) 4px
+    );
+    z-index: 1000;
+  }
+</style>
+</head>
+<body>
+
+<div class="scanline"></div>
+
+<header>
+  <div class="logo">wheagy<span>://</span>daily-brief</div>
+  <div class="datestamp">
+    <span id="datestamp"></span> &nbsp;|&nbsp; <span id="clock"></span> EDT
+  </div>
+</header>
+
+<div class="grid">
+
+  <!-- ROBOTICS -->
+  <div class="panel robotics">
+    <div class="panel-header">
+      <span class="icon">🤖</span>
+      <h2>Robotics</h2>
+      <span class="count">7 items</span>
+    </div>
+
+    <div class="item">
+      <span class="tag">humanoids</span>
+      <a href="https://www.robot-magazine.fr/en/why-2026-could-be-the-pivotal-year-for-humanoid-robots/" target="_blank">2026: The Pivotal Year for Humanoid Robots</a>
+      <div class="summary">Advanced AI + materials science are converging to make humanoids commercially viable — beyond lab demos and into deployment.</div>
+    </div>
+
+    <div class="item">
+      <span class="tag">top 10</span>
+      <a href="https://www.therobotreport.com/top-10-robotics-developments-march-2026/" target="_blank">Top 10 Robotics Developments of March 2026 — The Robot Report</a>
+      <div class="summary">Smart Factory Expo and NVIDIA GTC drove a wave of robotics and AI news; edge AI + Qualcomm collaborations highlighted.</div>
+    </div>
+
+    <div class="item">
+      <span class="tag">physical AI</span>
+      <a href="https://www.manufacturingdive.com/news/physical-ai-craze-2026-automation-trends-to-watch/810860/" target="_blank">The Physical AI Craze: Automation Trends to Watch in 2026</a>
+      <div class="summary">"Physical AI" is the buzzword driving automation investment — AI embedded in machines operating in the real, unstructured world.</div>
+    </div>
+
+    <div class="item">
+      <span class="tag">autonomous</span>
+      <a href="https://coaio.com/news/2026/04/revolutionizing-tech-ai-cybersecurity-and-automation-breakthroughs-in-2l4c/" target="_blank">Uber + WeRide Launch Dubai Robotaxi Service — No Safety Operators</a>
+      <div class="summary">Robotaxis are going fully driverless in Dubai; Senate investigation probes how often remote assistance is still required.</div>
+    </div>
+
+    <div class="item">
+      <span class="tag">humanoids</span>
+      <a href="https://fintech.tv/humanoid-robots-step-into-daily-life-as-china-takes-lead-at-ces-2026/" target="_blank">CES 2026: Google DeepMind + Boston Dynamics Atlas Partnership</a>
+      <div class="summary">DeepMind and Boston Dynamics formally partnered to drive Atlas's AI capabilities; China leads real-world humanoid adoption.</div>
+    </div>
+
+    <div class="item">
+      <span class="tag">cognitive robotics</span>
+      <a href="https://www.autonomyglobal.co/neura-robotics-unveils-next-generation-robots-and-announces-exciting-ces-2026-program/" target="_blank">NEURA Robotics Unveils 4NE1 Mini + Quadruped at CES 2026</a>
+      <div class="summary">New humanoid and quadruped models on the Neuraverse OS; NVIDIA's Spencer Huang joined the demo — cognition + connectivity focus.</div>
+    </div>
+
+    <div class="item">
+      <span class="tag">optimus</span>
+      <a href="https://fortune.com/2026/01/22/elon-musk-agonizingly-slow-cybercab-optimus-robot-rollout-tesla/" target="_blank">Musk: Optimus High-Production "Hopefully" 2026 — "Agonizingly Slow"</a>
+      <div class="summary">Tesla targeting high-volume Optimus production this year for external factory use; Musk manages expectations on timeline.</div>
+    </div>
+  </div>
+
+  <!-- RETRO COMPUTING -->
+  <div class="panel retro">
+    <div class="panel-header">
+      <span class="icon">💾</span>
+      <h2>Retro Computing</h2>
+      <span class="count">6 items</span>
+    </div>
+
+    <div class="item">
+      <span class="tag">NES</span>
+      <a href="https://www.youtube.com/watch?v=pJOy5D0cmks" target="_blank">Retrobite Radio — Apr 3 2026: NES as Musical Instrument + ML on Vintage HW</a>
+      <div class="summary">NES transformed into a functional musical instrument; ML trained under severe memory constraints on classic systems — right up your alley.</div>
+    </div>
+
+    <div class="item">
+      <span class="tag">atari 8-bit</span>
+      <a href="https://www.youtube.com/watch?v=LvTDRRxUXEs" target="_blank">April 2026 Vintage Computing Mag: Atari Pulls Live Weather from the Internet</a>
+      <div class="summary">A 1980s Atari 8-bit computer fetching live weather data — great demo of vintage hardware interfacing with modern APIs.</div>
+    </div>
+
+    <div class="item">
+      <span class="tag">C64</span>
+      <a href="https://www.facebook.com/groups/c64com/posts/1929927987891235/" target="_blank">Compute!'s Gazette Issue 9 Released — Issue 10 Coming in April</a>
+      <div class="summary">The revived Compute!'s Gazette for retro computer users is back in print; BASIC is not dead.</div>
+    </div>
+
+    <div class="item">
+      <span class="tag">PDP-11 / FPGA</span>
+      <a href="https://hackaday.com/tag/retrocomputing/page/3/" target="_blank">Hackaday: FPGA + Original DEC J-11 PDP-11 Hybrid Build</a>
+      <div class="summary">Ryomuk combines an FPGA with a real J-11 chip for a new take on PDP-11 — UNIX and C heritage on modern silicon.</div>
+    </div>
+
+    <div class="item">
+      <span class="tag">TRS-80</span>
+      <a href="https://hackaday.com/category/retrocomputing/page/185/" target="_blank">Hackaday: Full CMOS TRS-80 Clone Built from Scratch</a>
+      <div class="summary">No FPGA or Pi — a complete ground-up TRS-80 redesign using modern CMOS components; deep hardware detail from Glen.</div>
+    </div>
+
+    <div class="item">
+      <span class="tag">VCF East</span>
+      <a href="https://www.reddit.com/r/retrobattlestations/comments/1rzgu8s/vintage_computer_festival_east_2026_april_1719/" target="_blank">Vintage Computer Festival East 2026 — April 17–19, Wall NJ</a>
+      <div class="summary">VCF East returning to InfoAge Science & History Center; tickets available now — worthwhile road trip if you're near the area.</div>
+    </div>
+  </div>
+
+  <!-- AI / RETRO AI -->
+  <div class="panel ai">
+    <div class="panel-header">
+      <span class="icon">🧠</span>
+      <h2>AI / Retro-AI</h2>
+      <span class="count">7 items</span>
+    </div>
+
+    <div class="item">
+      <span class="tag">GPT-5.4</span>
+      <a href="https://amiko.consulting/en/summary-of-major-ai-news-for-the-week-of-march-29-april-4-2026/" target="_blank">OpenAI Releases GPT-5.4 with Native Computer-Use Capabilities</a>
+      <div class="summary">Focus
